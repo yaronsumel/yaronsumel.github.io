@@ -1,9 +1,10 @@
 ## Beer,Code and Things between them
 
+My name is Yaron,i'm doing software for living.
 
-You can use the [editor on GitHub](https://github.com/yaronsumel/yaronsumel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Blog Posts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Hello World](https://yaronsumel.github.io/pages/helloworld.md)
 
 ### Open Source Projects
 
@@ -14,18 +15,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 5. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
 6. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
 
+full list at  my [all projects](https://github.com/yaronsumel?tab=repositories).
+
 ### Coding Challenges
 
 1. [geo-coding-test](https://github.com/yaronsumel/geo-coding-test)
 2. [workbook-coding-challenge](https://github.com/yaronsumel/workbook-coding-challenge)
 
-full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
-
-### Blog Posts
-
-1. [Hello World](https://yaronsumel.github.io/pages/helloworld.md)
-
-
 ### Contact
 
-You can reach me at ( yaron at gmail dot com )
+You can reach me at ( yaronsu@gmail.com )
