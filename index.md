@@ -4,7 +4,7 @@ My name is Yaron,i'm doing software for living.
 
 ### Blog Posts
 
-1. [Hello World](https://yaronsumel.github.io/pages/helloworld.md)
+1. [Hello World](https://yaronsumel.github.io/pages/helloworld)
 
 ### Open Source Projects
 
