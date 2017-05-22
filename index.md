@@ -15,7 +15,7 @@ My name is Yaron,i'm doing software for living.
 5. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
 6. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
 
-full list at  my [all projects](https://github.com/yaronsumel?tab=repositories).
+full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 
 ### Coding Challenges
 
