@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 5. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
 6. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
 
-You can head over to my [public repos](https://github.com/yaronsumel?tab=repositories),pr/issues/feedback are welcomed.
+full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 
 ### Blog Posts
 
