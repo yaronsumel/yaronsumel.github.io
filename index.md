@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Open Source
 
 1. [piper](https://github.com/yaronsumel/piper) - pipe things over TLS.
+2. [grapes](https://github.com/yaronsumel/grapes) - easy way to distribute commands over ssh.
+3. [pipe](https://github.com/yaronsumel/pipe) - small package for reading pipe data.
+4. [filler](https://github.com/yaronsumel/filler) - fill struct data easily with fill tags.
+5. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
+6. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
 
 You can head over to my [public repos](https://github.com/yaronsumel?tab=repositories),pr/issues/feedback are welcomed.
 
