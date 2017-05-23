@@ -53,14 +53,14 @@ func main() {
 #### Output
 
 ```
- len 1 cap 5 slice:0x50c3f0 array:0xc042058050
- len 2 cap 5 slice:0x50c3f0 array:0xc042058050
- len 3 cap 5 slice:0x50c3f0 array:0xc042058050
- len 4 cap 5 slice:0x50c3f0 array:0xc042058050
- len 5 cap 5 slice:0x50c3f0 array:0xc042058050
- len 6 cap 10 slice:0x50c3f0 array:0xc0420400a0  <-- new underlying array
- len 7 cap 10 slice:0x50c3f0 array:0xc0420400a0
- len 8 cap 10 slice:0x50c3f0 array:0xc0420400a0
- len 9 cap 10 slice:0x50c3f0 array:0xc0420400a0
+ len 1 cap 5   slice:0x50c3f0 array:0xc042058050
+ len 2 cap 5   slice:0x50c3f0 array:0xc042058050
+ len 3 cap 5   slice:0x50c3f0 array:0xc042058050
+ len 4 cap 5   slice:0x50c3f0 array:0xc042058050
+ len 5 cap 5   slice:0x50c3f0 array:0xc042058050
+ len 6 cap 10  slice:0x50c3f0 array:0xc0420400a0  <-- new underlying array
+ len 7 cap 10  slice:0x50c3f0 array:0xc0420400a0
+ len 8 cap 10  slice:0x50c3f0 array:0xc0420400a0
+ len 9 cap 10  slice:0x50c3f0 array:0xc0420400a0
  len 10 cap 10 slice:0x50c3f0 array:0xc0420400a0
  ```
