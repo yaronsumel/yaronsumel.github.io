@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 ## HelloWorld
 
 So I got a blog now. it's open source and you can edit and PR things right [here](https://github.com/yaronsumel/yaronsumel.github.io)
