@@ -22,7 +22,7 @@ full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 
 ### Useful
 
-1. [how to get the underlying array of slice](/snippets/pages/how-to-get-the-underlying-array-of-slice)
+1. [how to get the underlying array of slice](/snippets/how-to-get-the-underlying-array-of-slice)
 
 ### Coding Challenges
 
