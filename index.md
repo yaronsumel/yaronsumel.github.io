@@ -1,7 +1,7 @@
 ---
 title: Yaron Sumel
 ---
-## Beer,Code and Things between them
+## Code,Beer && between
 
 My name is Yaron,i'm doing software for living.
 
