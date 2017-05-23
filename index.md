@@ -20,6 +20,10 @@ My name is Yaron,i'm doing software for living.
 
 full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 
+### Useful
+
+1. [how to get the underlying array of slice](/snippets/pages/how-to-get-the-underlying-array-of-slice)
+
 ### Coding Challenges
 
 1. [geo-coding-test](https://github.com/yaronsumel/geo-coding-test)
