@@ -1,5 +1,5 @@
 ---
-title: Yaron Sumel
+title: 
 ---
 ## Code,Beer && between
 
