@@ -32,3 +32,7 @@ full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 ### Contact
 
 You can reach me at ( yaronsu@gmail.com )
+
+### CV
+
+http://goo.gl/uGSnLM
