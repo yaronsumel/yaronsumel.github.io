@@ -3,7 +3,7 @@ title:
 ---
 ## Code,Beer && between
 
-My name is Yaron,i'm doing software for living.
+My name is Yaron,i'm doing software for living. [CV](http://goo.gl/uGSnLM)
 
 ### Blog Posts
 
@@ -32,7 +32,3 @@ full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 ### Contact
 
 You can reach me at ( yaronsu@gmail.com )
-
-### CV
-
-http://goo.gl/uGSnLM
