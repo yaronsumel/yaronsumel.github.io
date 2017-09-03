@@ -11,12 +11,13 @@ My name is Yaron,i'm doing software for living. [CV](http://goo.gl/uGSnLM)
 
 ### Open Source Projects
 
-1. [piper](https://github.com/yaronsumel/piper) - pipe things over TLS.
-2. [grapes](https://github.com/yaronsumel/grapes) - easy way to distribute commands over ssh.
-3. [pipe](https://github.com/yaronsumel/pipe) - small package for reading pipe data.
-4. [filler](https://github.com/yaronsumel/filler) - fill struct data easily with fill tags.
-5. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
-6. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
+1. [digota](https://github.com/digota/digota) - ecommerce microservice.
+2. [piper](https://github.com/yaronsumel/piper) - pipe things over TLS.
+3. [grapes](https://github.com/yaronsumel/grapes) - easy way to distribute commands over ssh.
+4. [pipe](https://github.com/yaronsumel/pipe) - small package for reading pipe data.
+5. [filler](https://github.com/yaronsumel/filler) - fill struct data easily with fill tags.
+6. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
+7. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
 
 full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
 
