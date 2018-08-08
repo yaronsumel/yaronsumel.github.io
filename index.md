@@ -8,6 +8,7 @@ My name is Yaron,i'm doing software for living. [CV](http://goo.gl/uGSnLM)
 ### Blog Posts
 
 1. [Hello World](https://yaronsumel.github.io/pages/helloworld)
+2. [how to get the underlying array of slice](/snippets/how-to-get-the-underlying-array-of-slice)
 
 ### Open Source Projects
 
@@ -20,10 +21,6 @@ My name is Yaron,i'm doing software for living. [CV](http://goo.gl/uGSnLM)
 7. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
 
 full list at  my [public repos](https://github.com/yaronsumel?tab=repositories).
-
-### Useful
-
-1. [how to get the underlying array of slice](/snippets/how-to-get-the-underlying-array-of-slice)
 
 ### Coding Challenges
 
