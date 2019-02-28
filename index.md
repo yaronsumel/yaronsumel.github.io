@@ -3,7 +3,7 @@ title:
 ---
 ## Code,Beer && between
 
-My name is Yaron,i'm doing software for living. [CV](http://goo.gl/uGSnLM)
+My name is Yaron,i'm doing software for living. [CV](https://goo.gl/vZziAp)
 
 ### Blog Posts
 
