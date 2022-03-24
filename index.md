@@ -19,7 +19,7 @@ My name is Yaron,i'm doing software for living.
 5. [filler](https://github.com/yaronsumel/filler) - fill struct data easily with fill tags.
 6. [ttls](https://github.com/yaronsumel/ttls) - zero effort temp TLS listener.
 7. [beanWork](https://github.com/yaronsumel/beanWork) - beanstalkd worker library.
-8. [grpc-throttle](https://github.com/yaronsumel/grpc-throttle)
+8. [grpc-throttle](https://github.com/yaronsumel/grpc-throttle) - grpc-throttle interceptor for go-grpc-middleware
 
 *full list at  my [public repos](https://github.com/yaronsumel?tab=repositories&q=&type=source&language=&sort=stargazers).*
 
